@@ -23,6 +23,10 @@ This is a tool to automatically solve AtCoder problems using ChatGPT.
    ```bash
    make set-template
    ```
+5. set OPEN_API_KEY in .env
+   ```bash
+   echo "OPEN_API_KEY=your_open_api_key" > .env
+   ```
 
 ## Usage
 
