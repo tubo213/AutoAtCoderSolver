@@ -1,4 +1,10 @@
-# research-template
+# Auto AtCoder Solver
+
+This is a tool to automatically solve AtCoder problems using ChatGPT.
+
+## Requirements
+- atcoder-cli
+- online-judge-tools
 
 ## Build Environment
 
@@ -12,3 +18,14 @@
    ```bash
    rye sync
    ```
+
+4. set template
+   ```bash
+   make set-template
+   ```
+
+## Usage
+
+```bash
+rye run python main.py {contest_id}
+```
