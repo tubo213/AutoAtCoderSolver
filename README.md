@@ -2,6 +2,9 @@
 
 This is a tool to automatically solve AtCoder problems using ChatGPT.
 
+Using this in actual contests is not prohibited, but it is not recommended.
+[公式ルール](https://info.atcoder.jp/overview/contest/rules)
+
 ## Requirements
 - atcoder-cli
 - online-judge-tools
