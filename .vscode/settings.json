@@ -24,11 +24,5 @@
   "ruff.format.args": [
     "--config=pyproject.toml"
   ],
-  "mypy-type-checker.path": [
-    "${workspaceFolder}/.venv/bin/mypy"
-  ],
-  "mypy-type-checker.args": [
-    "--config-file=pyproject.toml"
-  ],
   "files.autoSave": "afterDelay",
 }
