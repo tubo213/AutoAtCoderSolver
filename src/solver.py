@@ -34,6 +34,7 @@ class GPTSolver:
            - Combine the entire solution into a single code block.
            - Include comments to explain the key parts of your code.
            - Optimize the code to ensure the execution time is within 2 seconds and the memory usage is within 1024 MB.
+           - if __name__ == "__main__":; main() is must be included.
 
         The problem description will be given in JSON format as follows:
 
