@@ -9,7 +9,7 @@ import openai
 from dotenv import load_dotenv
 from loguru import logger
 
-from src.scraper import scrape_problem
+from src.scraper import scrape_problem  # type: ignore
 
 load_dotenv()
 openai.api_key = os.environ["OPENAI_API_KEY"]

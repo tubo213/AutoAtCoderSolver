@@ -13,7 +13,7 @@ annotated-types==0.7.0
 antlr4-python3-runtime==4.9.3
     # via hydra-core
     # via omegaconf
-anyio==4.3.0
+anyio==4.4.0
     # via httpx
     # via openai
 appdirs==1.4.4
@@ -77,7 +77,7 @@ packaging==24.0
     # via hydra-core
 pandas==2.2.2
     # via auto-atcoder-solver
-polars==0.20.29
+polars==0.20.30
     # via auto-atcoder-solver
 pydantic==2.7.1
     # via openai
